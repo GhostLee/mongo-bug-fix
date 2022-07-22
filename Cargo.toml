@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "fix-core",
+    "fix-plugin",
+    "fix-main",
+    "fix-integrated",
+]
